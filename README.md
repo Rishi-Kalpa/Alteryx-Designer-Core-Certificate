@@ -1,0 +1,1 @@
+# Alteryx-Designer-Core-Certificate
